@@ -9,14 +9,19 @@ CodeConnect is a specialised task management that can help NUS CS students keep 
 
 Given below are my contributions to the project.
 
-* **New Feature**: to be added soon
+* **New Features**: 
+  * Tasks
+    * `mark` : mark tasks as complete
+    * `unmark` : unmark tasks as incomplete
+    * `list` : list tasks in the task manager
 
 * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2223s1.github.io/tp-dashboard/?search=angkl0&breakdown=true)
 
 * **Project management**: to be added soon
 
-* **Enhancements to existing features**: to be added soon
-* 
+* **Enhancements to existing features**: 
+  * Extended storage to store tasks 
+
 * **Documentation**:
   * User Guide:
     * Added documentation for the features `addc` and `delc`
